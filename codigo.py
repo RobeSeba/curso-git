@@ -1,6 +1,7 @@
-nombre="Pepe"
+nombre="Luquitas"
 apellido="Magino"
 
 saludo=f"hola {nombre} {apellido} ¿Como estas?"
 
 print(saludo)
+
