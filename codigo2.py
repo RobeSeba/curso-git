@@ -1,2 +1,2 @@
-nombre="cami"
+nombre="jorgito"
 print(f"hola ${nombre}")
